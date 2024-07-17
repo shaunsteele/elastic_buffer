@@ -1,0 +1,14 @@
+*.jou
+*.log
+*.pb
+*.wdb
+.*.timestamp
+*.vcd
+**/xsim.dir/
+.*.toml
+**/sim_build/
+**/__pycache__
+*.xml
+**/.archive
+**/archive_*
+*.gtkw
